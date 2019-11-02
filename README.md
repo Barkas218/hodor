@@ -29,3 +29,7 @@ Necessary to send the post request with a captcha. The simple captcha can be sol
 Vote 98 times for your Holberton School's id.
 Necessary to send the post request using proxies. Only one vote per person per day is authorized.
 The proxies were obtained from https://proxy.webshare.io
+
+### Level 5
+Vote 1024 times for your Holberton School's id.
+Necessary to send the post request with a hard-to-read captcha. The captcha can be solved with OpenCV and terresact (an specifically with the Python's module pytesseract).
